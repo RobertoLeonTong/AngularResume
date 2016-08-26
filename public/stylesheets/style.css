@@ -1,7 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background: url('../image01.jpg') no-repeat center center;
+  background: url('../image01.jpg') no-repeat center center fixed;
   -webkit-background-size: 100% auto;
   -webkit-background-size: cover;
   -moz-background-size: cover;
