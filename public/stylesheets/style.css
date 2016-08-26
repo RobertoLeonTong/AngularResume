@@ -1,6 +1,25 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url('image01.jpg') no-repeat center center;
+  -webkit-background-size: 100% auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -o-background-size: 100% auto;
+  background-size: 100% auto;
+}
+#skix {
+  padding:0px 0px 0px 1.2em;
+}
+
+p {
+  font-size: 1.2em;
+}
+.jumbotron {
+  margin:auto;
+  width: 80%;
+  opacity:0.8;
 }
 
 a {
